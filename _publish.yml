@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 56fafd4c-c305-4395-b510-9b00174727f4
+      url: 'https://sprightly-marshmallow-3d112d.netlify.app'
