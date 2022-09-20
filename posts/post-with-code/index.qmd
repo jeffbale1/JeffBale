@@ -1,15 +1,16 @@
 ---
 title: "Post With Code"
-author: "Harlow Malloc"
-date: "2022-09-13"
+author: "Jeff Bale"
+date: "2022-09-18"
 categories: [news, code, analysis]
-image: "image.jpg"
+# image: "image.jpg"
 ---
 
-This is a post with executable code.
-
-Testing additional change.
+Testing out a blog post that has some code.
 
 ```{r}
-1 + 1
+library(tidyverse)
+
+cars %>%
+  head()
 ```
