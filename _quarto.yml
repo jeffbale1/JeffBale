@@ -2,14 +2,14 @@ project:
   type: website
 
 website:
-  title: "JeffBale"
+  title: "Jeff Bale"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/jeffbale1/JeffBale
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jeff-bale-41509323/
 format:
   html:
     theme: superhero
