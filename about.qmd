@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: profile.jpg
+#image: profile.jpg
 about:
   template: jolla
   links:
@@ -15,4 +15,8 @@ about:
       href: https://github.com
 ---
 
-About this blog
+Hello!
+
+I am a senior manager of clinical operations analytics in Healthcare. I enjoy understanding and improving healthcare systems through visualization and analytics.
+
+I was in the Peace Corps in Namibia, studied public health and epidemiology and have worked in either public health or healthcare since 2012. I live in Atlanta, GA and grew up in Salt Lake City, UT.
